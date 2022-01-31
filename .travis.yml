@@ -1,0 +1,7 @@
+langauge: c
+branches:
+  only:
+    - "master"
+  script:
+    - make
+    - ./hello
