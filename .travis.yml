@@ -1,7 +1,7 @@
 langauge: c
 branches:
   only:
-    - "master"
+    - "main"
 script:
   - make
   - ./hello
