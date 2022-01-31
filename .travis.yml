@@ -2,6 +2,6 @@ langauge: c
 branches:
   only:
     - "master"
-  script:
-    - make
-    - ./hello
+script:
+  - make
+  - ./hello
